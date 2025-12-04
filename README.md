@@ -5,7 +5,7 @@ http://devops.local
 | Tool        | URL                        | Access Method                          |
 |-------------|----------------------------|----------------------------------------|
 | Application | http://devops.local        | Ingress                                |
-| Jenkins     | http://localhost:8080      | `kubectl port-forward` → admin/admin123 |
+| Jenkins     | http://localhost:8080      | `kubectl port-forward` → abdo/abdo123  |
 | ArgoCD      | http://argocd.local:32000  | admin + password from secret           |
 | Grafana     | http://localhost:3000      | `port-forward` → admin/prom-operator   |
 

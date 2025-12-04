@@ -1,0 +1,10 @@
+.git
+.github
+__pycache__
+node_modules
+*.pyc
+*.log
+docs/
+ansible/
+jenkins/
+argocd/
